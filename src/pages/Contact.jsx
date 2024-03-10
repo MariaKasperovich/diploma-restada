@@ -1,7 +1,7 @@
 import React from 'react';
 import './Contact.css';
 import { ContactInfo } from '../components/ContactInfo';
-import { Form } from 'react-bootstrap';
+// import { Form } from 'react-bootstrap';
 import { Reviews } from '../components/Reviews';
 
 function Contact() {
